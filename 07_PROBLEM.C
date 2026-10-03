@@ -10,6 +10,7 @@ int main(){
     printf("\n");
     printf("=====ELIGIBILITY FOR TAKING LOAN=====");
     printf("\n");
+    printf("\n");
     printf("Enter the age of the person who wants loan: ");
     scanf("%d", &age);
     printf("Enter the income of the person: ");
