@@ -1,10 +1,8 @@
 // Read weight (kg) and height (m). Calculate BMI = weight / (height × height) and print the category:
-
 // below 18.5: Underweight
 // 18.5 to 24.9: Normal
 // 25 to 29.9: Overweight
 // 30 and above: Obese
-
 // Print "Invalid input" if weight or height is zero or negative.
 
 #include <stdio.h>
