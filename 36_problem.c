@@ -39,7 +39,7 @@ int main(){
             printf("DA : %d\n", da);
             printf("Gross Salary : %d", gross_salary);
         }
-        else {
+        else{
             hra = 0.20*basic_salary;
             da = 0.95*basic_salary;
             gross_salary = basic_salary + hra + da;
