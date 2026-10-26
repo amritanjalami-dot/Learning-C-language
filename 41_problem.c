@@ -35,7 +35,6 @@ int main() {
         int c1 = hardness > 50;
         int c2 = carbon_content < 0.7f;
         int c3 = tensile_strength > 5600;
-
         if (c1 && c2 && c3) {
             printf("Grade : 10\n");
         } else if (c1 && c2) {
